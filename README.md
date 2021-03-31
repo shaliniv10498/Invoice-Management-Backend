@@ -1,1 +1,1 @@
-# Invoice-Management-Backend
+# Invoice-Management-Backend using JDBC, Servlets etc.
